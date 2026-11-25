@@ -9,3 +9,7 @@ This is my first GitHub repository.
 - GitHub
 - SSH authentication
 - Version control
+
+## Learning Progress
+
+- Completed Git and GitHub basics.
