@@ -13,3 +13,7 @@ This is my first GitHub repository.
 ## Learning Progress
 
 - Completed Git and GitHub basics.
+
+## My favourite programming language
+
+C++
