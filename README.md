@@ -26,3 +26,7 @@ Working on feature-payment branch.
 ## Rebase Practice
 
 This feature was developed on feature-rebase.
+
+## Stash Practice
+
+This work is unfinished.
