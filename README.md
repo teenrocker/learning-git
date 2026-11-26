@@ -22,3 +22,7 @@ Python
 ## Branching Practice
 
 Working on feature-payment branch.
+
+## Rebase Practice
+
+This feature was developed on feature-rebase.
